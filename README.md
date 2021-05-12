@@ -3,17 +3,18 @@
 
 ![68747470733a2f2f692e6962622e636f2f533346774658372f446576656c6f7065722e6a7067](https://user-images.githubusercontent.com/79687388/117785880-9cac2a80-b262-11eb-839d-42695780db5b.jpg)
 
-<h3 align="center">I'm a 2nd year student at KIIT University, Bhubaneswar. I love to code and like to watch movies.</h3>
+<h3 align="center">I'm a 2nd year student at KIIT University, Bhubaneswar.I love to code and like to watch movies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar153&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar153" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar153" alt="sanskar153" /></a> </p>
 
+- 📫 How to reach me **sanskaragrawalla@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sanskaragrawalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanskar-agrawalla-b300091b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-agrawalla-b300091b7" height="30" width="40" /></a>
-<a href="https://fb.com/sanskaragrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="sanskaragrawal" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar_153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sanskar_153" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanskar_153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_153" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanskaragrawalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
@@ -30,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar153&show_icons=true&locale=en" alt="sanskar153" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar153&" alt="sanskar153" /></p>
+
 
 
 
