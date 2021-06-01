@@ -22,7 +22,7 @@
 <a href="https://www.hackerrank.com/sanskaragrawalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanskar_153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="sanskar_153" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sanskaragrawalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" alt="@sanskaragrawalla" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sanskaragrawalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sanskaragrawalla/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
