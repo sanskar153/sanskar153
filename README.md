@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sanskaragrawalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanskar-agrawalla-b300091b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="sanskar-agrawalla-b300091b7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanskar-agrawalla-b300091b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"  alt="sanskar-agrawalla-b300091b7" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar_153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="sanskar_153" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanskar_153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar_153" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanskaragrawalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="sanskaragrawalla" height="30" width="40" /></a>
