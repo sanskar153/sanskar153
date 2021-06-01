@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sanskar Agrawalla</h1>
 
 
+<h3 align="center">I'm a 2nd year student at KIIT University, Bhubaneswar. I love to code and like to watch movies.</h3>
+
 ![68747470733a2f2f692e6962622e636f2f533346774658372f446576656c6f7065722e6a7067](https://user-images.githubusercontent.com/79687388/117785880-9cac2a80-b262-11eb-839d-42695780db5b.jpg)
 
-<h3 align="center">I'm a 2nd year student at KIIT University, Bhubaneswar.I love to code and like to watch movies.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar153&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar153" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar153" alt="sanskar153" /></a> </p>
 
-- 📫 How to reach me **sanskaragrawalla@gmail.com**
+- 📫 How to reach me **sanskaragrawalla@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
