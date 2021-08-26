@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://sanskar153.github.io/portfolio/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/000000/resume-website.png"
+  <a href="https://sanskarportfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/100/000000/resume-website.png"
     alt="sanskar-agrawalla-b300091b7" height="60" width="50" /></a>
 <a href="https://linkedin.com/in/sanskar-agrawalla-b300091b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"  alt="sanskar-agrawalla-b300091b7" height="50" width="60" /></a>
 <a href="https://instagram.com/sanskar_153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="sanskar_153" height="50" width="60" /></a>
