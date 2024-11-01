@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Agrawalla</h1>
 
 
-<h3 align="center">I'm a 3rd year student at KIIT University, Bhubaneswar. I love to code and like to watch movies.</h3>
+<h3 align="center">I'm a 2 year experienced DevOps/SRE Engineer</h3>
 
 ![68747470733a2f2f692e6962622e636f2f533346774658372f446576656c6f7065722e6a7067](https://user-images.githubusercontent.com/79687388/117785880-9cac2a80-b262-11eb-839d-42695780db5b.jpg)
 
